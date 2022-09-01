@@ -114,7 +114,7 @@ print("The prediction for the given input "+str(prediction_test)+" is: "+str(pre
 
 <img width="482" alt="image" src="https://user-images.githubusercontent.com/75234991/187843234-8bbb2a59-b725-4651-ac7b-667b0d1f361f.png">
 
-<br><br><br><br><br><br>
+<br><br><br>
 
 ### New Sample Data Prediction
 
