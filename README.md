@@ -13,7 +13,7 @@ We then perform an evaluation of the model with the test data. An user input is 
 
 <img width="355" alt="image" src="https://user-images.githubusercontent.com/75234991/187663500-30c2c0dd-c9de-402d-8287-ea69375c24d6.png">
 
-<br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br>
 
 ## DESIGN STEPS
 
