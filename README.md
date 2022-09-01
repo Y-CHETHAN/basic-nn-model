@@ -104,15 +104,15 @@ print("The prediction for the given input "+str(prediction_test)+" is: "+str(pre
 
 ### Training Loss Vs Iteration Plot
 
-Include your plot here
+![image](https://user-images.githubusercontent.com/75234991/187843085-4877d40f-fa95-4b7d-8930-5533e12886fa.png)
 
 ### Test Data Root Mean Squared Error
 
-Find the test data root mean squared error
+<img width="482" alt="image" src="https://user-images.githubusercontent.com/75234991/187843234-8bbb2a59-b725-4651-ac7b-667b0d1f361f.png">
 
 ### New Sample Data Prediction
 
-Include your sample input and output here
+<img width="348" alt="image" src="https://user-images.githubusercontent.com/75234991/187843282-09d51d46-d97c-4f8e-b7d4-8773466b4cbf.png">
 
 ## RESULT
 Thus, a Simple Neural Network Regression Model is developed successfully.
