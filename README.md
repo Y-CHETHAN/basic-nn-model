@@ -13,8 +13,6 @@ We then perform an evaluation of the model with the test data. An user input is 
 
 <img width="388" alt="image" src="https://user-images.githubusercontent.com/75234991/187877739-41b7d2e6-4144-49a4-b15d-313b5837a55e.png">
 
-<br><br><br>
-
 ## DESIGN STEPS
 
 ### Step 1:
@@ -44,8 +42,6 @@ Plot the performance plot
 ### Step 7:
 
 Evaluate the model with the testing data.
-
-<br><br><br><br><br><br><br><br><br><br><br><br>
 
 ## PROGRAM
 ```python
@@ -113,8 +109,6 @@ print("The prediction for the given input "+str(prediction_test)+" is: "+str(pre
 ### Test Data Root Mean Squared Error
 
 <img width="482" alt="image" src="https://user-images.githubusercontent.com/75234991/187843234-8bbb2a59-b725-4651-ac7b-667b0d1f361f.png">
-
-<br><br><br>
 
 ### New Sample Data Prediction
 
