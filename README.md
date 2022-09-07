@@ -39,13 +39,13 @@ Train the model with the training data.
 
 ### Step 6:
 
-Plot the performance plot
+Plot the performance plot.
 
 ### Step 7:
 
 Evaluate the model with the testing data.
 
-<br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br>
 
 ## PROGRAM
 ```python
