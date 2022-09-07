@@ -13,6 +13,8 @@ We then perform an evaluation of the model with the test data. An user input is 
 
 ![nn](https://user-images.githubusercontent.com/75234991/188797088-90a2a2ff-a38d-431f-9cce-f2f76358819b.svg)
 
+<br><br><br><br>
+
 ## DESIGN STEPS
 
 ### Step 1:
