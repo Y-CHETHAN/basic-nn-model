@@ -11,7 +11,7 @@ We then perform an evaluation of the model with the test data. An user input is 
 
 ## NEURAL NETWORK MODEL
 
-<img width="388" alt="image" src="https://user-images.githubusercontent.com/75234991/187877739-41b7d2e6-4144-49a4-b15d-313b5837a55e.png">
+![nn](https://user-images.githubusercontent.com/75234991/188797088-90a2a2ff-a38d-431f-9cce-f2f76358819b.svg)
 
 ## DESIGN STEPS
 
